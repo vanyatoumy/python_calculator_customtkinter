@@ -1,2 +1,2 @@
-# python_calculator_customtkinter
-This is a simple python gui  calculator
+# python_youtube_downloader
+This is a simple python gui  youtube video downloader
